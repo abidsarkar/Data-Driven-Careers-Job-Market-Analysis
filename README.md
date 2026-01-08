@@ -123,11 +123,11 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [abidsarkar0@gmail.com](mailto:abidsarkar0@gmail.com)
 
-Project Link: [https://github.com/yourusername/Data-Driven-Careers-Job-Market-Analysis](https://github.com/yourusername/Data-Driven-Careers-Job-Market-Analysis)
+Project Link: [https://github.com/abidsarkar/Data-Driven-Careers-Job-Market-Analysis](https://github.com/abidsarkar/Data-Driven-Careers-Job-Market-Analysis)
 
-LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/md-abid-sarkar)
 
 ## 📄 License
 
